@@ -16,7 +16,7 @@ Data Science project is not just about creating models. Any time you build a mac
 - **Univariate Analysis** - Univariate analysis means analysis of a single variable. It’s mainly describes the characteristics of the variable. If the variable is categorical we can use either a bar chart or a pie chart to find the distribution of the classes in the variable. Histograms are great for plotting the distribution of the data and boxplots are the best choice for visualizing outliers.
 - **Bi-variate Analysis** - Bivariate analysis involves checking the relationship between two variables simultaneously. 
 - Handling missing values
-- Handling outliers
+- [Handling outliers](https://github.com/rashmiranu/Machine-Learning--In-brief/blob/f68ea13f1b28254f6b0f40190b303861e5721cdc/Handling%20Outliers.ipynb)
 - Checking for class imbalance in categorical variables
 - Variable transformation
 - Variable creation
