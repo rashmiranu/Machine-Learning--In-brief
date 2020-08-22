@@ -15,7 +15,8 @@ So, once you have got your business problem statement ready, data exploration is
 Data Science project is not just about creating models. Any time you build a machine learnig model, you have to preprocess the data so that model can be trained in the right way. 70% of the total time will be consumed in exploration, cleaning and preparing the data.
 - **Univariate Analysis** - Univariate analysis means analysis of a single variable. It’s mainly describes the characteristics of the variable. If the variable is categorical we can use either a bar chart or a pie chart to find the distribution of the classes in the variable. Histograms are great for plotting the distribution of the data and boxplots are the best choice for visualizing outliers.
 - **Bi-variate Analysis** - Bivariate analysis involves checking the relationship between two variables simultaneously. 
-- Handling missing values
+- [Handling missing values for continuous variable](https://github.com/rashmiranu/Machine-Learning--In-brief/blob/master/Feature%20Engineering/Handling%20missing%20values%20for%20Continuous%20variable.ipynb)
+- [Handling missing values for categorical variable](https://github.com/rashmiranu/Machine-Learning--In-brief/blob/master/Feature%20Engineering/Handling%20missing%20values%20for%20Categorical%20Variable.ipynb)
 - [Handling outliers](https://github.com/rashmiranu/Machine-Learning--In-brief/blob/f68ea13f1b28254f6b0f40190b303861e5721cdc/Handling%20Outliers.ipynb)
 - Checking for class imbalance in categorical variables
 - Variable transformation
