@@ -9,6 +9,9 @@ In ***unsupervised learning*** the data is not labelled. The machine has to figu
 
 ***Reinforcement Learning*** Suppose, you were dropped in an isolated island. You will have to learn how to live on the island, adapt to the changing climate, what to eat and what not to eat. So basically, you are following the hit and trial concept because you are new to the surrounding and only way for you to learn is to learn from your experience.<br>
 *Reinorcement* is a learning method where an agent interacts with its environment by doing some actions and discover errors and rewards.
+# Understanding the Dataset
+One of the most important factor before you start working on a problem is that you create a Data Dictionary. Data Dictionary describes what each column or feature of your dataset actually means.
+
 
 # Exploratory Data Analysis
 So, once you have got your business problem statement ready, data exploration is the next step which is analysing and summarising the dataset and also cleaning. Because the 
