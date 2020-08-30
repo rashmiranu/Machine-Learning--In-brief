@@ -1,6 +1,6 @@
 # Machine-Learning--In-brief
 **So what is Machine Learning?**<br>
-In lamen language, we feed data to the machine, the machine learns from that data. When a new set of data is provided then based on that learning, the machine makes a decision and prediction.
+In layman language, we feed data to the machine, the machine learns from that data. When a new set of data is provided then based on that learning, the machine makes a decision and prediction.
 
 In ***supervised learning*** the data is labelled (i.e every input data is tagged to its corresponding output). The machine is trained with those outputs to make a decision.
 For instance, at school, the teacher first guided us and taught us how the specific problem is solved and accordingly we work on other problems.
