@@ -21,7 +21,7 @@ Data Science project is not just about creating models. Any time you build a mac
 - [Handling missing values for continuous variable](https://github.com/rashmiranu/Machine-Learning--In-brief/blob/master/Feature%20Engineering/Handling%20missing%20values%20for%20Continuous%20variable.ipynb)
 - [Handling missing values for categorical variable](https://github.com/rashmiranu/Machine-Learning--In-brief/blob/master/Feature%20Engineering/Handling%20missing%20values%20for%20Categorical%20Variable.ipynb)
 - [Handling outliers](https://github.com/rashmiranu/Machine-Learning--In-brief/blob/f68ea13f1b28254f6b0f40190b303861e5721cdc/Handling%20Outliers.ipynb)
-- Checking for class imbalance in categorical variables
+- [Checking for class imbalance in categorical variables](https://github.com/rashmiranu/Machine-Learning--In-brief/blob/master/Feature%20Engineering/Handling%20Imbalanced%20Dataset.ipynb)
 - Variable transformation
 - Variable creation
 
