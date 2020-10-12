@@ -22,8 +22,8 @@ Data cleaning is the process of identifying and removing inaccurate records from
 # Exploratory Data Analysis
 So, once you have got your business problem statement ready, data exploration is the next step which is analysing, summarising, visualising and becoming familiar with the dataset. Because the Data Science project is not just about creating models. Any time you build a machine learnig model, you have to preprocess the data so that model can be trained in the right way. 70% of the total time will be consumed in exploration, cleaning and preparing the data.
 - **Univariate Analysis** - Univariate analysis means analysis of a single variable. It mainly describes the characteristics of the variable. 
-- If the variable is ***numerical*** patterns can be found by looking at mean, mode, median, range, variance, maximum, minimum, quartiles, and standard deviation and can be displayed using histograms,  frequency distribution tables, boxplots are the best choice for visualizing outliers.
-- If the variable is ***categorical*** we can use either a bar chart or a pie chart to find the distribution of the classes in the variable. 
+-- If the variable is ***numerical*** patterns can be found by looking at mean, mode, median, range, variance, maximum, minimum, quartiles, and standard deviation and can be displayed using histograms,  frequency distribution tables, boxplots are the best choice for visualizing outliers.
+-- If the variable is ***categorical*** we can use either a bar chart or a pie chart to find the distribution of the classes in the variable. 
 - **Bi-variate Analysis** - Bivariate analysis involves checking the relationship between two variables simultaneously. 
 
 - [Checking for class imbalance in categorical variables](https://github.com/rashmiranu/Machine-Learning--In-brief/blob/master/Feature%20Engineering/Handling%20Imbalanced%20Dataset.ipynb)
