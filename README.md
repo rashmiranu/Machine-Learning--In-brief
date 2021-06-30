@@ -14,8 +14,9 @@ One of the most important factor before you start working on a problem is that y
 
 # Data Cleaning
 Data cleaning is the process of identifying and removing inaccurate records from a dataset. 
-- [Handling missing values for continuous variable](https://github.com/rashmiranu/Machine-Learning--In-brief/blob/master/Feature%20Engineering/Handling%20missing%20values%20for%20Continuous%20variable.ipynb)
-- [Handling missing values for categorical variable](https://github.com/rashmiranu/Machine-Learning--In-brief/blob/master/Feature%20Engineering/Handling%20missing%20values%20for%20Categorical%20Variable.ipynb)
+- [Handling missing values for continuous features](https://github.com/rashmiranu/Machine-Learning--In-brief/blob/master/Feature%20Engineering/Handling%20missing%20values%20for%20Continuous%20variable.ipynb)
+- [Handling missing values for categorical features](https://github.com/rashmiranu/Machine-Learning--In-brief/blob/master/Feature%20Engineering/Handling%20missing%20values%20for%20Categorical%20Variable.ipynb)
+- [Categorical Encoding](https://github.com/rashmiranu/Categorical-Encoder/blob/master/categorical_encoding.ipynb)
 - [Feature Scaling](https://github.com/rashmiranu/Machine-Learning--In-brief/blob/master/Feature%20Engineering/Feature_scaling.ipynb)
 - [Handling outliers](https://github.com/rashmiranu/Machine-Learning--In-brief/blob/f68ea13f1b28254f6b0f40190b303861e5721cdc/Handling%20Outliers.ipynb)
 - Removing duplicates
