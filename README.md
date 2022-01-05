@@ -18,11 +18,12 @@ So, once you have got your business problem statement ready, data exploration is
 -- If the variable is ***categorical*** we can use either a bar chart or a pie chart to find the distribution of the classes in the variable. 
 - **Bi-variate Analysis** - Bivariate analysis involves checking the relationship between two variables simultaneously.
 
-# Data Cleaning
-Data cleaning is the process of identifying and removing inaccurate records from a dataset. 
+# Featuring Engineering
+## Data Wrangling
+Data wrangling or data cleaning is the process of identifying and removing inaccurate records from a dataset. 
 - [Handling missing values for continuous features](https://github.com/rashmiranu/Machine-Learning--In-brief/blob/master/Feature%20Engineering/Handling%20missing%20values%20for%20Continuous%20variable.ipynb)
 - [Handling missing values for categorical features](https://github.com/rashmiranu/Machine-Learning--In-brief/blob/master/Feature%20Engineering/Handling%20missing%20values%20for%20Categorical%20Variable.ipynb)
-- [Categorical Encoding](https://github.com/rashmiranu/Categorical-Encoder/blob/master/categorical_encoding.ipynb)
+- [Handling Categorical Features](https://github.com/rashmiranu/Categorical-Encoder/blob/master/categorical_encoding.ipynb)
 - [Feature Scaling](https://github.com/rashmiranu/Machine-Learning--In-brief/blob/master/Feature%20Engineering/Feature_scaling.ipynb)
 - [Handling outliers](https://github.com/rashmiranu/Machine-Learning--In-brief/blob/f68ea13f1b28254f6b0f40190b303861e5721cdc/Handling%20Outliers.ipynb)
 - Removing duplicates
