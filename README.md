@@ -24,8 +24,8 @@ Data wrangling or data cleaning is the process of identifying and removing inacc
 - [Handling missing values for continuous features](https://github.com/rashmiranu/Machine-Learning--In-brief/blob/master/Feature%20Engineering/Handling%20missing%20values%20for%20Continuous%20variable.ipynb)
 - [Handling missing values for categorical features](https://github.com/rashmiranu/Machine-Learning--In-brief/blob/master/Feature%20Engineering/Handling%20missing%20values%20for%20Categorical%20Variable.ipynb)
 - [Handling Categorical Features](https://github.com/rashmiranu/Categorical-Encoder/blob/master/categorical_encoding.ipynb)
-- [Feature Scaling](https://github.com/rashmiranu/Machine-Learning--In-brief/blob/master/Feature%20Engineering/Feature_scaling.ipynb)
 - [Handling outliers](https://github.com/rashmiranu/Machine-Learning--In-brief/blob/f68ea13f1b28254f6b0f40190b303861e5721cdc/Handling%20Outliers.ipynb)
+- [Feature Scaling](https://github.com/rashmiranu/Machine-Learning--In-brief/blob/master/Feature%20Engineering/Feature_scaling.ipynb)
 - Removing duplicates
 
  
